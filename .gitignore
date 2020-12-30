@@ -1,0 +1,4 @@
+kubeconfig
+.vagrant/
+dashboard-token*
+*.log
